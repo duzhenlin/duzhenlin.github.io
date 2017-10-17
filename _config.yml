@@ -21,7 +21,7 @@ avatar: '/assets/img/profile.png'
 # Search
 search: true
 
-header-img:'/assets/img/hero.jpg'
+header-img: '/assets/img/hero.jpg'
 
 # Night mode
 nightMode: true
