@@ -65,4 +65,4 @@ RSS: false
 # Plugins
 gems: [jekyll-paginate]
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
