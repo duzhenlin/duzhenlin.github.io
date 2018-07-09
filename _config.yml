@@ -2,7 +2,7 @@
 title: 'My Blog'
 description: 'My Blog'
 keyword: 'My Blog'
-url: 'http://www.y55k.com' # your host
+url: 'https://duzhenlin.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
